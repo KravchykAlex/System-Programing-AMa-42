@@ -19,8 +19,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/lnu/home/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-271">
-              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+            <state relative-caret-position="160">
+              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lnu/home/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="method#partition#0;class#QuickSort#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,6 +108,7 @@
         <option value="$PROJECT_DIR$/src/com/lnu/home/Queue.java" />
         <option value="$PROJECT_DIR$/src/com/lnu/home/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/com/lnu/home/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/lnu/home/QuickSort.java" />
       </list>
     </option>
   </component>
@@ -188,18 +203,17 @@
       <workItem from="1605609576708" duration="7486000" />
       <workItem from="1605620555361" duration="3008000" />
       <workItem from="1605715787974" duration="6285000" />
-      <workItem from="1606298781214" duration="6732000" />
+      <workItem from="1606298781214" duration="9672000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23511000" />
+    <option name="totallyTimeSpent" value="26451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -208,7 +222,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27330175" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18799368" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -304,10 +318,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lnu/home/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="method#partition#0;class#QuickSort#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lnu/home/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-271">
-          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        <state relative-caret-position="160">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
         </state>
       </provider>
     </entry>
