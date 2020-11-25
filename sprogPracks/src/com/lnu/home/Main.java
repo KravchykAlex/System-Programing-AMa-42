@@ -7,7 +7,7 @@ public class Main {
 
         //1
         System.out.println("--(1)---QuickSort----------");
-        int[] unsortedArray = {10, 80, 30, 90, 40, 50, 70};
+        int[] unsortedArray = {70,50,40,90,30,80,10};
         QuickSort qs = new QuickSort(unsortedArray);
         System.out.print("Array: ");
         for (int i = 0; i < unsortedArray.length; i++) {
@@ -32,7 +32,7 @@ public class Main {
 
         //3
         System.out.println("--(3)---Fibonacci------------");
-        Fibonacci fibo = new Fibonacci(10);
+        Fibonacci fibo = new Fibonacci(55);
         fibo.findFiboNumber();
         System.out.println();
 

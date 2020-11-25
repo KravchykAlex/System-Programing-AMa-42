@@ -1,12 +1,14 @@
 package com.lnu.home;
 
+import java.math.BigInteger;
+
 public class Fibonacci {
 
-    public int[] fiboRow;
+    public BigInteger[] fiboRow;
     public int fiboIndex;
 
     public Fibonacci(int rowElementIndex) {
-        this.fiboRow = new int[rowElementIndex];
+        this.fiboRow = new BigInteger[rowElementIndex];
         this.fiboIndex = rowElementIndex;
     }
 
@@ -16,16 +18,18 @@ public class Fibonacci {
         } else if (fiboIndex == 0) {
             System.out.println("Your number is " + 0);
         } else if (fiboIndex == 1) {
-            fiboRow[0] = 1;
+            int a = 1;
+
+            fiboRow[0] = BigInteger.valueOf(1);
             System.out.println("your number is " + fiboRow[0]);
         } else if (fiboIndex == 2) {
-            fiboRow[1] = 1;
+            fiboRow[1] = BigInteger.valueOf(1);
             System.out.println("your number is " + fiboRow[1]);
         } else {
-            fiboRow[0] = 1;
-            fiboRow[1] = 1;
+            fiboRow[0] =  BigInteger.valueOf(1);
+            fiboRow[1] =  BigInteger.valueOf(1);
             for (int i = 2; i < fiboIndex; i++) {
-                fiboRow[i] = fiboRow[i - 1] + fiboRow[i - 2];
+                fiboRow[i] = fiboRow[i-1].add(fiboRow[i-2]);
             }
             System.out.println("your number is " + fiboRow[fiboIndex - 1]);
         }
