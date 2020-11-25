@@ -19,6 +19,12 @@ public class Main {
         }
         System.out.println();
 
+        //3
+        System.out.println("--(3)---Fibonacci------------");
+        Fibonacci fibo = new Fibonacci(10);
+        fibo.findFiboNumber();
+        System.out.println();
+
         //4
         System.out.println("--(4)---Queue------------");
         Queue q = new Queue();
