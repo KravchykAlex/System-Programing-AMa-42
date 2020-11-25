@@ -31,7 +31,7 @@ public class Fibonacci {
         }
         System.out.println();
         for (int i = 0; i < fiboIndex; i++) {
-            System.out.print(fiboRow[i]+ " ");
+            System.out.print(fiboRow[i] + " ");
         }
     }
 }

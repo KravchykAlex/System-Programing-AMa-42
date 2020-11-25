@@ -48,7 +48,6 @@ public class Queue {
             System.out.println("Empty Queue");
     }
 
-
     public void print()
     {
         System.out.println();

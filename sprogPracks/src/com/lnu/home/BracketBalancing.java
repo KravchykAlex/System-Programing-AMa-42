@@ -3,56 +3,45 @@ package com.lnu.home;
 public class BracketBalancing {
 
     public char[] bracketLine;
-    public int swapCount=0;
+    public int swapCount = 0;
 
-    public BracketBalancing(String consoleLine)
-    {
+    public BracketBalancing(String consoleLine) {
         this.bracketLine = consoleLine.toCharArray();
     }
 
-    public void balancer()
-    {
+    public void balancer() {
 
         swapper(this.bracketLine);
     }
 
-    public void swapCountOutput(int count)
-    {
-        String output = "Swap numbers: "+count;
+    public void swapCountOutput(int count) {
+        String output = "Swap numbers: " + count;
         System.out.println(output);
     }
 
-    public char[] swapper(char[] bracketLine)
-    {
-        char[] workLine=bracketLine;
-        char swapBracket=' ';
-        int leftCounter =0;
-        int rightCounter=0;
+    public char[] swapper(char[] bracketLine) {
+        char[] workLine = bracketLine;
+        char swapBracket = ' ';
+        int leftCounter = 0;
+        int rightCounter = 0;
 
-        for(int i = 0;i<workLine.length;i++)
-        {
-            if(workLine[i]=='[')
-            {
-                leftCounter+=1;
-            }
-            else
-            {
-                rightCounter+=1;
+        for (int i = 0; i < workLine.length; i++) {
+            if (workLine[i] == '[') {
+                leftCounter += 1;
+            } else {
+                rightCounter += 1;
             }
 
-            if(leftCounter < rightCounter)
-            {
+            if (leftCounter < rightCounter) {
                 int j = i;
 
-                while(true)
-                {
-                    swapBracket=workLine[j+1];
-                    workLine[j+1]=workLine[j];
-                    workLine[j]=swapBracket;
+                while (true) {
+                    swapBracket = workLine[j + 1];
+                    workLine[j + 1] = workLine[j];
+                    workLine[j] = swapBracket;
                     j++;
 
-                    if(workLine[j-1]=='[')
-                    {
+                    if (workLine[j - 1] == '[') {
                         swapCount++;
                         break;
                     }
@@ -62,10 +51,9 @@ public class BracketBalancing {
 
         }
         swapCountOutput(swapCount);
-        if(swapCount==0)
-        {
+        if (swapCount == 0) {
             System.out.println("YOU need nothing IT IS PPPPPERFECT =3");
-        }else {
+        } else {
             System.out.print("Output: ");
             System.out.println(workLine);
         }
