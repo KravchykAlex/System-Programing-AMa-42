@@ -19,9 +19,13 @@ def quick_sort(arr, l, h):
         quick_sort(arr, l, pi-1)
         quick_sort(arr, pi+1, h)
 
+        
+n = int(input("Size of array: "))
+arr = []
+for i in range(n):
+    arr.append(int(input(f"Input your {i+1} value: ")))
 
-arr = [10, 16, 8, 12, 15, 6, 3, 9, 5, 1]
-n = len(arr)
+
 quick_sort(arr, 0, n - 1)
 print("Sorted array:")
 print(arr)
