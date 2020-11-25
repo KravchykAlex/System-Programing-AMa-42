@@ -17,6 +17,21 @@ public class Main {
         else{
             System.out.println("We found "+key+" on index "+result);
         }
+        System.out.println();
+
+        //4
+        System.out.println("--(4)---Queue------------");
+        Queue q = new Queue();
+        q.add(5);
+        q.add(6);
+        q.add(7);
+        q.add(8);
+        q.print();
+        q.pop();
+        q.pop();
+        q.print();
+        q.peek();
+        System.out.println();
 
         //5
         System.out.println("--(5)---Bracket Balancing----------");
@@ -24,5 +39,7 @@ public class Main {
         System.out.println("Inputted line:"+ inputLine);
         BracketBalancing bb = new BracketBalancing(inputLine);
         bb.balancer();
+        System.out.println();
+
     }
 }
