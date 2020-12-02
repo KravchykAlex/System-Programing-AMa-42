@@ -1,0 +1,7 @@
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\Fibonacci\bin\Debug\Fibonacci.exe
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\Fibonacci\bin\Debug\Fibonacci.pdb
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\Fibonacci\obj\Debug\Fibonacci.exe
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\Fibonacci\obj\Debug\Fibonacci.pdb

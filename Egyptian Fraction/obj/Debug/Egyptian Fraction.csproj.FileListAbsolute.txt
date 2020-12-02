@@ -1,0 +1,7 @@
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\Egyptian Fraction\bin\Debug\Egyptian Fraction.exe.config
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\Egyptian Fraction\bin\Debug\Egyptian Fraction.exe
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\Egyptian Fraction\bin\Debug\Egyptian Fraction.pdb
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\Egyptian Fraction\obj\Debug\Egyptian Fraction.csproj.CoreCompileInputs.cache
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\Egyptian Fraction\obj\Debug\Egyptian Fraction.exe
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\Egyptian Fraction\obj\Debug\Egyptian Fraction.pdb
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\Egyptian Fraction\obj\Debug\Egyptian Fraction.csprojAssemblyReference.cache

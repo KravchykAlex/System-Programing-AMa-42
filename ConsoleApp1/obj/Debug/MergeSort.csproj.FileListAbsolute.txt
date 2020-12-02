@@ -1,0 +1,14 @@
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\MergeSort\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\MergeSort\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\MergeSort\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\MergeSort\ConsoleApp1\obj\Debug\MergeSort.csprojAssemblyReference.cache
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\MergeSort\ConsoleApp1\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\MergeSort\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\MergeSort\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\ConsoleApp1\obj\Debug\MergeSort.csprojAssemblyReference.cache
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\ConsoleApp1\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Study\Byrsa\4 курс, 1 семестр\Сис. прог\Pavlo Bernatskij\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
