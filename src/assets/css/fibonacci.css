@@ -1,0 +1,48 @@
+.fibonacci-container {
+    width: 100%;
+    height: calc(100vh - 9rem);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.fibonacci-input {
+    outline: none;
+    padding: 5px 0;
+    width: 2rem;
+    text-align: center;
+    box-shadow: 0 0 0.5rem rgba(0, 255, 67, 0.7);
+    background-color: inherit;
+    outline: none;
+    border: none;
+}
+
+.fibonacci-btn {
+    padding: 5px 10px;
+    margin-left: 1rem;
+    background-color: inherit;
+    outline: none;
+    border: none;
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.7);
+}
+
+.fibonacci-btn:hover {
+    box-shadow: 0 0 0.5rem rgba(0, 255, 67, 0.7);
+}
+
+.fibonacci__output {
+    height: 6rem;
+    width: 6rem;
+    box-shadow: 0 0 0.5rem rgba(102, 157, 117, 0.7), 0 0 2rem rgba(0, 255, 67, 0.7);
+    transform: rotate(45deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    text-shadow: 0 0 1rem rgba(0, 0, 0, 0.7);
+}
+
+.fibonacci__output p {
+    transform: rotate(-45deg);
+}

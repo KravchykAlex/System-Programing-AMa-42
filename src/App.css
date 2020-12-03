@@ -1,0 +1,113 @@
+/* body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #323232;
+}
+
+.text__animation {
+    position: relative;
+    color: #323232;
+    -webkit-text-stroke: 1px grey;
+    text-transform: uppercase;
+}
+
+.text__animation::before {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    color: white;
+    -webkit-text-stroke: 0 grey;
+    border-right: 2px solid white;
+    overflow: hidden;
+    animation: animate 6s infinite ease;
+}
+
+@keyframes animate {
+    0%, 50%, 100% {
+        width: 0;
+    }
+    100% {
+        width: 100%;
+    }
+} */
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Goldman', cursive;
+}
+
+.App {
+    width: 100%;
+    height: 100vh;
+    background-color: grey;
+}
+
+.container {
+    width: 80%;
+    height: 100%;
+    background-color: #323232;
+    margin: 0 auto;
+    box-shadow: 0 0 6rem rgba(0, 0, 0, 0.9);
+}
+
+.header {
+    width: 100%;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header__text {
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    color: #323232;
+    -webkit-text-stroke: 0.1px lime;
+    /* -webkit-text-stroke: 0.1px rgba(0, 184, 49, 1); */
+}
+
+.nav {
+    height: 3rem;
+    width: 100%;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    box-shadow: 0 0.4rem 0.5rem rgba(0, 0, 0, 0.3);
+}
+
+.nav__item {
+    width: 100%;
+    height: 100%;
+}
+
+
+.nav__item:hover {
+    box-shadow: 0 0.3rem 0.5rem rgba(0, 255, 67, 0.7);
+
+}
+
+.item__link {
+    width: 100%;
+    height: 100%;
+    color: White;
+    outline: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.active {
+    box-shadow: 0 0.3rem 0.5rem rgba(0, 255, 67, 1);
+}
