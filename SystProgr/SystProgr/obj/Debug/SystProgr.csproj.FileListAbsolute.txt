@@ -1,0 +1,7 @@
+C:\Users\www\source\repos\SystProgr\SystProgr\obj\Debug\SystProgr.csprojAssemblyReference.cache
+C:\Users\www\source\repos\SystProgr\SystProgr\obj\Debug\SystProgr.csproj.CoreCompileInputs.cache
+C:\Users\www\source\repos\SystProgr\SystProgr\bin\Debug\SystProgr.exe.config
+C:\Users\www\source\repos\SystProgr\SystProgr\bin\Debug\SystProgr.exe
+C:\Users\www\source\repos\SystProgr\SystProgr\bin\Debug\SystProgr.pdb
+C:\Users\www\source\repos\SystProgr\SystProgr\obj\Debug\SystProgr.exe
+C:\Users\www\source\repos\SystProgr\SystProgr\obj\Debug\SystProgr.pdb

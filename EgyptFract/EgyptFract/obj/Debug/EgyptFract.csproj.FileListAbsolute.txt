@@ -1,0 +1,7 @@
+C:\Users\www\source\repos\EgyptFract\EgyptFract\obj\Debug\EgyptFract.csprojAssemblyReference.cache
+C:\Users\www\source\repos\EgyptFract\EgyptFract\obj\Debug\EgyptFract.csproj.CoreCompileInputs.cache
+C:\Users\www\source\repos\EgyptFract\EgyptFract\bin\Debug\EgyptFract.exe.config
+C:\Users\www\source\repos\EgyptFract\EgyptFract\bin\Debug\EgyptFract.exe
+C:\Users\www\source\repos\EgyptFract\EgyptFract\bin\Debug\EgyptFract.pdb
+C:\Users\www\source\repos\EgyptFract\EgyptFract\obj\Debug\EgyptFract.exe
+C:\Users\www\source\repos\EgyptFract\EgyptFract\obj\Debug\EgyptFract.pdb

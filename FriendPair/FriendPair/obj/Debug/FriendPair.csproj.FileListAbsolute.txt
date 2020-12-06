@@ -1,0 +1,7 @@
+C:\Users\www\source\repos\FriendPair\FriendPair\bin\Debug\FriendPair.exe.config
+C:\Users\www\source\repos\FriendPair\FriendPair\bin\Debug\FriendPair.exe
+C:\Users\www\source\repos\FriendPair\FriendPair\bin\Debug\FriendPair.pdb
+C:\Users\www\source\repos\FriendPair\FriendPair\obj\Debug\FriendPair.csprojAssemblyReference.cache
+C:\Users\www\source\repos\FriendPair\FriendPair\obj\Debug\FriendPair.csproj.CoreCompileInputs.cache
+C:\Users\www\source\repos\FriendPair\FriendPair\obj\Debug\FriendPair.exe
+C:\Users\www\source\repos\FriendPair\FriendPair\obj\Debug\FriendPair.pdb
